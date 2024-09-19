@@ -1,0 +1,4 @@
+Hello, I am an IT student and after learning about git yesterday,
+ I can now make a repo on github with command prompt and it feels like I'm in a new era... 
+
+dbfv 12/9/2024 :)
